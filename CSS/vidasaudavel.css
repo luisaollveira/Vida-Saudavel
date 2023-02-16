@@ -1,0 +1,156 @@
+@media screen and (max-width: 768px) {}
+    
+
+
+
+
+h1 {
+color: rgb(219, 29, 102);
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 35px;
+}
+
+body {
+  color: rgb(219, 29, 102);
+  background-color: rgb(222, 194, 223);
+  font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between; 
+    list-style-type:none ;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: rgb(219, 29, 102) ;
+    text-decoration: none;
+}
+
+a:hover{
+    
+    text-decoration: underline ;
+    font-size: 20px;
+
+}
+li:hover {
+
+    text-decoration: underline;
+    color: white;
+}
+
+header img{
+   width: 200px;
+   height: 200px;
+   border-radius: 70%;
+   border: 8px solid rgb(219, 29, 102);
+}
+
+.centro {
+    text-align: center;
+}
+
+nav {
+    background-color: white;
+    font-size: 17px;
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30%;
+    border: 8px solid rgb(219, 29, 102);
+    
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+footer a {
+    margin: 15px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(219, 29, 102);;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.luisa , h3{
+    text-align: left;
+    font-size: 18px;
+    margin-left: 8px;
+
+}
+.voce {
+    text-align: right;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+ .luisa p {
+     color: rgb(219, 29, 102);
+ }
+
+ .toda {
+     text-align: center;
+     background-color:white;
+ }
+
+ form {
+     text-align: left;
+     margin-right: 5px;
+     margin-bottom: 5px;
+     margin-left: 8px;
+     border: 5px;
+ }
+
+ .eu h4{
+     text-align: justify;
+     color: rgb(219, 29, 102);
+font-family: 'Times New Roman', Times, serif ;
+font-size: 30px;
+     
+ }
+
+ .eu {
+     text-align: justify;
+     font-size: 18px;
+     margin-right: 8px;
+ }
+ .inst {
+    width: 165px;
+    height: 165px;
+    border-radius: 30%;
+    border: 8px solid rgb(219, 29, 102);
+    margin-bottom: 5px;
+    text-align: center;
+
+ }
+
+ .f{
+     margin-bottom: 5px;
+     color: rgb(219, 29, 102); 
+ }
+ .limp {
+     margin-bottom: 7px;
+     color: rgb(219, 29, 102);
+ }
+
+#pp {
+    text-align: justify;
+    font-size: 18px;
+}
+main{
+    padding-bottom: 50px;
+}
+.foto {
+    text-align: center;
+}

@@ -1,0 +1,179 @@
+h1 {
+    color: rgb(219, 29, 102);
+    text-align: center;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    body {
+      color: rgb(219, 29, 102);
+      background-color: rgb(222, 194, 223);
+      font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    ul {
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+        align-items: center;
+        padding: 16px;
+    }
+    
+    a {
+       
+        text-decoration: none;
+        color: rgb(219, 29, 102);
+    }
+    
+    a:hover{
+        
+        text-decoration: underline ;
+        font-size: 20px;
+        color: rgb(219, 29, 102);
+    
+    }
+    
+    li:hover {
+        text-decoration: underline;
+    }
+    
+    header img{
+       width: 200px;
+       height: 200px;
+       border-radius: 70%;
+       border: 8px solid rgb(219, 29, 102);
+    }
+    
+    .centro {
+        text-align: center;
+    }
+    
+    nav {
+        background-color: white;
+    }
+    
+    footer img {
+        width: 50px;
+        height: 50px;
+        
+    }
+    footer{
+        display: flex;
+        justify-content: center;
+        background-color: white;
+        clear: both;
+        margin-top: 20px;
+        margin-bottom: 10px;
+
+    }
+    
+    footer img {
+        width: 50px;
+        height: 50px;
+        border-radius: 30%;
+        border: 8px solid rgb(219, 29, 102);
+        
+    }
+
+    footer a {
+        margin: 15px;
+        text-align: center;
+    }
+ol {
+    list-style:disc ;
+    margin: 2px;
+
+}
+ol:hover {
+    text-decoration: none ;
+}
+
+  
+h4 {
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 25px;
+    margin-top: 7px;
+}
+
+
+h3 {
+   font-family: 'Times New Roman', Times, serif; 
+   font-size: 25px; 
+}
+
+
+
+h2 {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 25px;
+}
+
+h5 {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 25px;
+    
+} 
+
+.acad {
+    width: 300px;
+    height: 300px;
+    border-radius: 9%;
+    border: 6px solid rgb(219, 29, 102);
+    margin: 12px;
+
+
+}
+.ultima {
+    
+    font-size: 18px;
+    float: left;
+    clear: both;
+    text-align: justify;
+  
+}
+main{
+    padding-bottom: 50px;
+}
+
+#b , #c , #d {
+    float: left;
+    text-align: justify;
+}
+
+.aaaa {
+    float: right;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 15px;
+}
+.e:hover {
+    font-size: 16px;
+}
+.nome {
+    text-align: center;
+}
+
+#t:hover {
+    text-decoration: none;
+}
+
+h6, .h   {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 25px;
+    margin-top: 2px;
+}
+#imc {
+    margin-bottom: 5px;
+     color: rgb(219, 29, 102); 
+}
+
+.tab{
+    width: 300px;
+    height: 300px;
+    border-radius: 9%;
+    border: 6px solid rgb(219, 29, 102);
+    float: right;
+    margin:0 20px 50px 20px;
+}
+#b {
+    margin-top: 2px;
+}

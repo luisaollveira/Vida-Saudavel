@@ -1,0 +1,133 @@
+h1  {
+    color: rgb(219, 29, 102);
+    text-align: center;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    body {
+      color: rgb(219, 29, 102);
+      background-color: rgb(222, 194, 223);
+      font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    ul {
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+        align-items: center;
+        padding: 16px;
+    }
+    
+    a {
+        color: rgb(219, 29, 102) ;
+        text-decoration: none;
+    }
+    
+    a:hover{
+        
+        text-decoration: underline ;
+        font-size: 20px;
+    
+    }
+    li:hover {
+    
+        text-decoration: underline;
+        
+    }
+    
+    header img{
+       width: 200px;
+       height: 200px;
+       border-radius: 70%;
+       border: 8px solid rgb(219, 29, 102);
+    }
+    
+    .centro {
+        text-align: center;
+    }
+    
+    nav {
+        background-color:white;
+    }
+    
+    footer img {
+        width: 50px;
+        height: 50px;
+        
+    }
+    footer{
+        display: flex;
+        justify-content: center;
+        background-color: white;
+    }
+    
+    footer a {
+        margin: 15px;
+        text-align: center;
+    }
+    footer img {
+        width: 50px;
+        height: 50px;
+        border-radius: 30%;
+        border: 8px solid rgb(219, 29, 102);
+        
+    }
+h2 , h3 ,h4 {
+    color: rgb(219, 29, 102);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 25px;
+}
+
+.casaum{
+    text-align: justify;
+}
+
+.u {
+    
+    margin-bottom: 5px;
+    
+}
+
+
+.exc {
+    height: 200px;
+
+    border-radius: 9%;
+    border: 6px solid rgb(219, 29, 102);
+    margin:0 20px 50px 20px;
+    float: right;
+    clear: both;
+}
+video {
+    
+    border-radius: 9%;
+    border: 6px solid rgb(219, 29, 102);
+    margin-bottom: 8px;
+    text-align: left;
+ }
+
+.listt {
+    
+    list-style-type: disc;
+    text-align: justify;
+}
+ol:hover {
+   
+    color:rgb(219, 29, 102) ;
+}
+.iw {
+    text-align: justify;
+}
+.v {
+    text-align: center;
+}
+.e {
+    text-align: justify;
+}
+main{
+    padding-bottom: 50px;
+}
+.t:hover {
+    text-decoration: none;
+}
